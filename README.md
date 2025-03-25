@@ -11,14 +11,9 @@ A graduate student from USST and currently research direction is LLM security.
 
 ## About Me
 
-[![](https://visitor-badge.laobi.icu/badge?page_id=JianYingJia.JianYingJia)](https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom)
-[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:coderjiajianying@gmail.com)](mailto:coderjiajianying@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:coderjiajianying@gmail.com)](mailto:coderjiajianying@gmail.com)[![Static Badge](https://img.shields.io/badge/-163.com-red?logo=mailgun&link=mailto:jjy_coder%40163.com)](mailto:jjy_coder@163.com)[![](https://img.shields.io/github/stars/JianYingJia?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=cxyfreedom&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![](https://img.shields.io/github/followers/JianYingJia?color=27da6b&logo=Handshake)](https://github.com/JianYingJia?tab=followers)
 
-[![Static Badge](https://img.shields.io/badge/-163.com-red?logo=mailgun&link=mailto:jjy_coder%40163.com)](mailto:jjy_coder@163.com)
-
-[![](https://img.shields.io/github/stars/JianYingJia?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=cxyfreedom&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-[![](https://img.shields.io/github/followers/JianYingJia?color=27da6b&logo=Handshake)](https://github.com/JianYingJia?tab=followers)
-
+## 
 ## Tools
 
 <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a> <a href="https://www.centos.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
